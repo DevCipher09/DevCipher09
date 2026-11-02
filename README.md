@@ -57,7 +57,7 @@ A personal website showcasing my developer identity, skills and projects.
 
 ## 🤝 Connect With Me
 
-- GitHub: [Your GitHub Profile]
+- GitHub: https://github.com/DevCipher09
 - Email: [Your Email]
 
 ---
