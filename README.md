@@ -1,44 +1,67 @@
+
 # Hi there, I'm Kelvin (Dev. Cipher) 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner](your_banner_image_url_here)
 
-## About Me 🚀
+## 🚀 About Me
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm an aspiring **Software Developer, Game Developer & Cybersecurity Enthusiast** passionate about technology, programming, and digital security.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+I enjoy building creative projects, solving technical problems, exploring vulnerabilities in safe lab environments, and learning how technology works.
 
-## My Skills 🧠
+- 🌱 Currently learning: Python, HTML, CSS, JavaScript, Game Development & Cybersecurity.
+- 🔭 Working on: 2D Platformer Game Development using Godot Engine.
+- 🔐 Exploring: Ethical Hacking, Network Security and Cybersecurity Fundamentals.
+- 💻 Interested in: Software Development, Web Development, Game Development & Information Security.
+- 🌍 Language: English.
+- 📫 Contact: [Your Email Address]
+- ⚡ Fun fact: I love gaming, coding, cybersecurity and exploring technology.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🧠 My Skills & Technologies
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## Featured Projects 💻
+## 💻 Featured Projects
 
-### [Project 1 Title](project_1_link)
+### 🎮 2D Platformer Game
+- Player movement and animations.
+- Enemy AI and movement.
+- Platforms and collision systems.
+- Multiple stages and environments.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### 🌐 Personal Developer Portfolio
+A personal website showcasing my developer identity, skills and projects.
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+## 🔐 Cybersecurity Interests
 
-### [Project 2 Title](project_2_link)
+- Ethical Hacking
+- Network Security
+- Linux Fundamentals
+- Web Application Security
+- Digital Forensics
+- Cybersecurity Fundamentals
 
-![Project 2 Screenshot](project_2_screenshot_url)
+## 🎯 My Goals
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+- Become a skilled software developer.
+- Grow into a cybersecurity professional.
+- Build amazing games and applications.
+- Develop practical ethical hacking skills.
+- Contribute to open-source projects.
+- Keep learning and creating.
 
-## Get in Touch 📬
+## 🤝 Connect With Me
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- GitHub: [Your GitHub Profile]
+- Email: [Your Email]
 
+---
+
+**"Code. Create. Secure. Innovate."** ⚡
+
+*DEV. CIPHER | Building Beyond Limits.*
