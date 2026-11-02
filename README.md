@@ -1,7 +1,7 @@
 
 # Hi there, I'm Kelvin (Dev. Cipher) 👋
 
-![Banner](your_banner_image_url_here)
+![DEV CIPHER](banner.png)
 
 ## 🚀 About Me
 
